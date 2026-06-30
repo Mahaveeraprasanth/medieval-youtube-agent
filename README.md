@@ -455,7 +455,7 @@ Best for focused single-event stories:
 
 ### 8 minutes (480s — ~1200 words)
 Room for full story arcs with turning points:
-- `"the invention of dynamite"` (tested ✓)
+- `"the invention of dynamite"` 
 - `"the Chernobyl disaster"`
 - `"the Apollo 13 disaster and rescue"`
 - `"how Kodak destroyed itself"`
