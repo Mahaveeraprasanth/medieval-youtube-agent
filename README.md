@@ -1,6 +1,6 @@
 # Chronicle Forge
 
-A local AI-powered YouTube story video generation pipeline. 
+A local-AI powered YouTube story video generation pipeline. 
 Give it a topic, get a fully narrated, image-synced MP4 — script, voiceover, visuals, and YouTube metadata included.
 
 ---
