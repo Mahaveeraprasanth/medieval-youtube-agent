@@ -1,0 +1,19 @@
+# Python 3.11 required — torch-directml has no wheels for 3.12+
+requests>=2.31.0
+python-dotenv>=1.0.0
+edge-tts>=6.1.9
+moviepy>=1.0.3
+Pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+
+# Kokoro TTS (local, offline, CPU-native) — optional alternative to edge-tts
+kokoro>=0.9.4
+soundfile>=0.12.1
+
+# AMD GPU image generation (DirectML) — same stack as story-reel
+torch-directml
+diffusers>=0.27.0,<0.31.0
+transformers>=4.40.0
+accelerate>=0.30.0
+safetensors>=0.4.0

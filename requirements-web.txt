@@ -1,0 +1,2 @@
+# Web UI dependencies — install in addition to requirements.txt
+flask>=2.3.0
